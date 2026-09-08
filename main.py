@@ -10,6 +10,10 @@ responses = {
      "motivate me": "keep going. every bug in your project makes you a better developer",
      "happy": "happy to hear that",
      "meaning of love":"The true meaning of love is to feel a sense of joy when we see our partner happy. When we see that they are sad or depressed, we feel their blue mood, too. With love comes empathy for the other person’s emotional state. 3. Love means compromise",
+      "suggests me":"ofcoure i suggest you pls! give me details in which domain i suggest you",
+
+
+
 }
 
 # method to get response of chatbot  
