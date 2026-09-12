@@ -12,7 +12,7 @@ responses = {
      "meaning of love":"The true meaning of love is to feel a sense of joy when we see our partner happy. When we see that they are sad or depressed, we feel their blue mood, too. With love comes empathy for the other person’s emotional state. 3. Love means compromise",
       "suggests me":"ofcoure i suggest you pls! give me details in which domain i suggest you",
      "what about btech":"B.Tech, yaani Bachelor of Technology, ek 4-saal ka undergraduate engineering degree program hai. Yeh un students ke liye hota hai jo technology aur engineering fields mein padhai karke apna career banana chahte hain.",
-
+      "what is your name ":"i am a simple ai chatbot.which helps to solve your doubts and coding problems",
 
 }
 
