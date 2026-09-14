@@ -14,6 +14,8 @@ responses = {
      "what about btech":"B.Tech, yaani Bachelor of Technology, ek 4-saal ka undergraduate engineering degree program hai. Yeh un students ke liye hota hai jo technology aur engineering fields mein padhai karke apna career banana chahte hain.",
       "what is your name ":"i am a simple ai chatbot.which helps to solve your doubts and coding problems",
       "what do you want":"i want to clear you doubts ",
+       "what is npm":"npm is a package manager",
+
 }
 
 # method to get response of chatbot  
