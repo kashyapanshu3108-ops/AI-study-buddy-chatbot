@@ -15,7 +15,7 @@ responses = {
       "what is your name ":"i am a simple ai chatbot.which helps to solve your doubts and coding problems",
       "what do you want":"i want to clear you doubts ",
        "what is npm":"npm is a package manager",
-
+       "good morning":"good morning how can i help you",
 }
 
 # method to get response of chatbot  
