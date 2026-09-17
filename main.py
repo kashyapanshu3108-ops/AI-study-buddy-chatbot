@@ -17,6 +17,8 @@ responses = {
        "what is npm":"npm is a package manager",
        "good morning":"good morning how can i help you",
        "good night":" good night champ aaj hamne bhot saari problems solve ki bhot accha keep it up",
+      "what is noun":"noun is the name of person place or thing.",
+
 }
 
 # method to get response of chatbot  
