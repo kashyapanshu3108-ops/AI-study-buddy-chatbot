@@ -18,7 +18,7 @@ responses = {
        "good morning":"good morning how can i help you",
        "good night":" good night champ aaj hamne bhot saari problems solve ki bhot accha keep it up",
       "what is noun":"noun is the name of person place or thing.",
-
+    "what is LLM":"LLM stands for large language models ",
 }
 
 # method to get response of chatbot  
